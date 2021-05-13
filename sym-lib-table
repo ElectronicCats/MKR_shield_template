@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MKRShield_v1)(type Legacy)(uri ${KICAD_TEMPLATE_DIR}/Arduino_MKR_shield/MKRShield_v1.lib)(options "")(descr ""))
+)
